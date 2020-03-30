@@ -1,0 +1,13 @@
+1.print("Hello Corona")
+2.print("my favorite cricketer is 'shreyasiyer'")
+3.print(name.title())
+4.print("A Quite Place")
+5.print(full_name)
+6.full_name = first_name+"" +last_name
+7.print(name.upper("A Quite place"))
+8.print(name.lower("A Quite Place"))
+9.print("movies:\n\tbaaghi\n\taswathama")
+10.print("Happy"+str(19)+"rd Birthday!")
+11.friends=['mahesh','prabhas','raviteja']
+12.print(friends[1])
+13.print(friends[2])
